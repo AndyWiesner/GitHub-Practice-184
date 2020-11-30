@@ -32,30 +32,7 @@
 |Name        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
-| Brian Dailey | bdailey15 | <https://bdailey150.github.io/Stat184/> |
-| Zhengyan Yuan | zqy5133 | https://zqy5133.github.io/stat184assignment1/ |  
-| Aaron Schlegel | acs5844 | <https://acs5844.github.io/Stat184Contents/> |
-| Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
-| Nelson Huang | nelson1998  | <https://nelson1998.github.io/STAT184Assignment1/> |
-| Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
-| Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/> |
-| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/Stat184Assignment1/> |   
-| Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184> |
-| Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/> |  
-| Zhefeng He | zhefenghe | <https://zhefenghe.github.io/readme/> |  
-| Muthu Nagesh | muthu124    | <https://muthu124.github.io/Stat184Assignment/>    |
-| Luke Morris  | lmm6229  |  <https://lmm6229.github.io/Stat184assignment1/> | 
-| Chuzhen Wang | Chuzhen1016 | <https://chuzhen1016.github.io/STAT184Assignment1/> |  
-| Xiaowei Zhu | xxz220 | <https://xxz220.github.io/Stat184-assign/>|
-| Feng Ding | CallMeHyo | <https://callmehyo.github.io/STAT184Assignment1-2nd-try/> |  
-| Josue Perez Gomez | jochuchemon7 | <https://jochuchemon7.github.io/GitHubAssignment/> |
-| Jaehoon Ha | gkwogns95 | <https://gkwogns95.github.io/Stat184Assignment1/> |
-| Joshua Harman | jeh5747 | <https://jeh5747.github.io/Stat184-Assignment1/> |
-| M. Bilal Yaseen | bilaln372 | <https://bilaln372.github.io/readme/> |
-| Antonio Garcia | AntonioAG97| <https://antonioag97.github.io/GitHub-Practice-AG/> |
-| Leah Miller | lnm5220 | <https://lnm5220.github.io/Stat184Assignment1/> |
-| Vydeepthi Dhulipalla | vydeepthi| <https://vydeepthi.github.io/Stat184Assignment1/> |
-| Marina Mautner Wizentier | marinawiz | <https://marinawiz.github.io/mqm6104/> |
+
 <br>
 
 
